@@ -3,6 +3,10 @@ Our mobile app provides smallholder farmers with a comprehensive toolset for man
 
 DEMO Video Link : [Youtube Link](https://www.youtube.com/watch?v=c4NCiDzvS2Y)
 
+STEPS :
+
+DIRECT TO APK LINK FOLDER AND SELECT DOWNLOAD (DHAANYA.APK)
+
 APK FILE : [Click here for DEMO APP ](https://drive.google.com/drive/folders/1ipKjuW-rujVKYCnznoZfbjZXaBFoIDnX?usp=sharing)
 
 ![screenshot](b1.png)
